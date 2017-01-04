@@ -7,7 +7,7 @@ class Product
 	private float price;
 	public Product() {
 		super();
-		// TODO Auto-generated constructor stub
+		// TODO Auto-generated constructor 
 	}
 	public Product(int id, String name, float price) {
 		super();
